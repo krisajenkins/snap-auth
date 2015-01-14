@@ -14,7 +14,7 @@ permissions/roles/etc.):
   - Authenticating users, which means having proof that a user is who she says
   	she is before we grant her some important priveleges in our application.
 
-This package both of these challenges. It will likely be integrated into Snap
+This package addresses both of these challenges. It will likely be integrated into Snap
 as the stock solution, possibly in the 0.5 release.  
 
 
